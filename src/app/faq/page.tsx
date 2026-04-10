@@ -20,7 +20,7 @@ const financeQuestions = [
 
 const treatmentQuestions = [
   { question: 'What treatments are available?', answer: 'We offer dental implants, composite and porcelain veneers, teeth whitening, dental crowns, and full mouth restorations.' },
-  { question: 'How much do treatments cost?', answer: 'Costs vary by treatment and clinic. Teeth whitening starts from around 400, crowns from 600, and full mouth restorations from 8,000. Use our calculator for an estimate.' },
+  { question: 'How much do treatments cost?', answer: 'Costs vary by treatment and clinic. Teeth whitening starts from around £400, crowns from £600, and full mouth restorations from £8,000. Use our calculator for an estimate.' },
   { question: 'Which countries do partner clinics operate in?', answer: 'Our partner clinics are based in Turkey, Hungary, Spain, and Portugal - all popular destinations for high-quality, affordable dental care.' },
   { question: 'How long will I need to be abroad?', answer: 'Treatment duration varies. Some treatments like whitening can be done in a single visit, while implants may require two visits over a few months.' },
   { question: 'Is the quality of treatment abroad as good as in the UK?', answer: 'Our partner clinics meet strict clinical standards and many dentists hold internationally recognised qualifications. We regularly audit all clinics.' },

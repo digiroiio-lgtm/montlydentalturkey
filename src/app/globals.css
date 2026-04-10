@@ -6,8 +6,6 @@
   --color-brand-teal: #0891b2;
   --color-brand-light: #f0f7ff;
   --color-brand-accent: #0ea5e9;
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
 }
 
 :root {
